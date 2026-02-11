@@ -1,43 +1,52 @@
-<h1 align="center">Hi 👋 I'm Charlz</h1>
-<h3 align="center">🚀 Founder | Developer | Cybersecurity Enthusiast</h3>
+<h1 align="center">🚀 Charlz Lamera</h1>
+<h3 align="center">Founder & CEO • SkyCode Software Development Services</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Cybersecurity+Specialist;Web+%26+System+Builder;Startup+Founder;Always+Learning+🚀&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Digital+Solutions;Startup+Founder;Software+Developer;Cybersecurity+Advocate;Scaling+Tech+Businesses&center=true&width=520&height=45">
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🏢 Founder of **SkyCode Software Development Services**
-- 💻 Building **Web Apps • Systems • Automation • Cybersecurity Solutions**
-- 🌏 Based in Philippines
-- 🔥 Passionate about startups, tech, and innovation
-- 📈 Always improving skills & creating value
+## 🧠 About Me
+- 🏢 Founder & CEO — **SkyCode Software Development Services**
+- 💻 Software, Systems, Web Platforms & Cybersecurity Solutions
+- 🌏 Philippines-based Tech Entrepreneur
+- 📈 Focused on scalable tech, automation & digital innovation
+- 🔥 Mission: Build solutions that create real business impact
 
 ---
 
-### ⚡ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,nodejs,python,mysql,linux,git,bootstrap,tailwind" />
-</p>
+## ⚡ Core Expertise
+- Custom Software Development  
+- Enterprise Systems & Automation  
+- Web & SaaS Platforms  
+- Cybersecurity Implementation  
+- Startup Tech Consulting  
 
 ---
 
-### 📊 GitHub Stats
+## 🛠 Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=airdrophunterph&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=airdrophunterph&theme=tokyonight">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,nodejs,python,mysql,linux,git,bootstrap,tailwind,docker" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
-<p>
-  <a href="https://github.com/airdrophunterph">GitHub</a> •
-  <a href="#">Website</a> •
-  <a href="#">LinkedIn</a>
+## 📊 GitHub Performance
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=airdrophunterph&show_icons=true&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=airdrophunterph&theme=tokyonight&hide_border=true">
 </p>
 
 ---
 
-⭐ *“Code. Secure. Innovate. Repeat.”*
+## 🌐 Business & Collaboration
+- 💼 Open for partnerships & tech collaborations
+- 🤝 Startup consulting & system development
+- 📩 Let’s build something impactful together
+
+---
+
+<p align="center">
+⭐ <i>“Innovate. Build. Scale.”</i>
+</p>
