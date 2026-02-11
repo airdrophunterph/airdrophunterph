@@ -34,9 +34,10 @@
 
 ## 📊 GitHub Performance
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=airdrophunterph&show_icons=true&theme=tokyonight&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=airdrophunterph&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=airdrophunterph&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800">
+  <img src="https://streak-stats.demolab.com?user=airdrophunterph&theme=tokyonight&hide_border=true">
 </p>
+
 
 ---
 
