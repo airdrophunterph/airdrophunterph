@@ -88,14 +88,14 @@ Mission: Build solutions that create real business impact
 <h2 align="center">⚡ Core Expertise</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Custom%20Software-Development-0d1117?style=for-the-badge&logo=code&logoColor=58a6ff&labelColor=0d1117&color=1a6dd4" />
-  <img src="https://img.shields.io/badge/Enterprise%20Systems-Automation-0d1117?style=for-the-badge&logo=robotframework&logoColor=58a6ff&labelColor=0d1117&color=1a6dd4" />
-  <img src="https://img.shields.io/badge/Web%20%26%20SaaS-Platforms-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff&labelColor=0d1117&color=1a6dd4" />
+  <img src="https://img.shields.io/badge/Custom%20Software-Development-0d1117?style=for-the-badge&amp;logo=code&amp;logoColor=58a6ff&amp;labelColor=0d1117&amp;color=1a6dd4" />
+  <img src="https://img.shields.io/badge/Enterprise%20Systems-Automation-0d1117?style=for-the-badge&amp;logo=robotframework&amp;logoColor=58a6ff&amp;labelColor=0d1117&amp;color=1a6dd4" />
+  <img src="https://img.shields.io/badge/Web%20%26%20SaaS-Platforms-0d1117?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=58a6ff&amp;labelColor=0d1117&amp;color=1a6dd4" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Implementation-0d1117?style=for-the-badge&logo=hackaday&logoColor=58a6ff&labelColor=0d1117&color=1a6dd4" />
-  <img src="https://img.shields.io/badge/Startup%20Tech-Consulting-0d1117?style=for-the-badge&logo=bookstack&logoColor=58a6ff&labelColor=0d1117&color=1a6dd4" />
-  <img src="https://img.shields.io/badge/API%20%26%20Backend-Architecture-0d1117?style=for-the-badge&logo=fastapi&logoColor=58a6ff&labelColor=0d1117&color=1a6dd4" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Implementation-0d1117?style=for-the-badge&amp;logo=hackaday&amp;logoColor=58a6ff&amp;labelColor=0d1117&amp;color=1a6dd4" />
+  <img src="https://img.shields.io/badge/Startup%20Tech-Consulting-0d1117?style=for-the-badge&amp;logo=bookstack&amp;logoColor=58a6ff&amp;labelColor=0d1117&amp;color=1a6dd4" />
+  <img src="https://img.shields.io/badge/API%20%26%20Backend-Architecture-0d1117?style=for-the-badge&amp;logo=fastapi&amp;logoColor=58a6ff&amp;labelColor=0d1117&amp;color=1a6dd4" />
 </p>
 
 <br/>
@@ -110,11 +110,11 @@ Mission: Build solutions that create real business impact
 
 <h4 align="center">🔤 Languages</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-%234169E1.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
 </p>
 
 <h4 align="center">🚀 Frameworks & Libraries</h4>
