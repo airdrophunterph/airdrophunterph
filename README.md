@@ -152,22 +152,22 @@ Mission: Build solutions that create real business impact
 <h2 align="center">📊 GitHub Performance</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=airdrophunterph&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1a6dd4&text_color=c9d1d9&cache_seconds=1800" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=airdrophunterph&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a6dd4&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=airdrophunterph&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=1a6dd4&amp;text_color=c9d1d9&amp;cache_seconds=1800" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=airdrophunterph&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;stroke=1a6dd4&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=58a6ff&amp;sideLabels=c9d1d9&amp;dates=c9d1d9" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airdrophunterph&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airdrophunterph&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=airdrophunterph&bg_color=0d1117&color=58a6ff&line=1a6dd4&point=58a6ff&area_color=1a6dd4&area=true&hide_border=true" alt="Activity Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=airdrophunterph&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=1a6dd4&amp;point=58a6ff&amp;area_color=1a6dd4&amp;area=true&amp;hide_border=true" alt="Activity Graph" />
 </p>
 
 <!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=airdrophunterph&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=airdrophunterph&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=10" alt="Trophies" />
 </p>
 
 <br/>
