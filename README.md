@@ -2,38 +2,38 @@
 
 <!-- Profile Views Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=airdrophunterph&label=Profile%20Views&color=1a6dd4&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/airdrophunterph?label=Followers&style=for-the-badge&color=1a6dd4&labelColor=0d1117" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/airdrophunterph?label=Stars&style=for-the-badge&color=1a6dd4&labelColor=0d1117" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=airdrophunterph&amp;label=Profile%20Views&amp;color=1a6dd4&amp;style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/airdrophunterph?label=Followers&amp;style=for-the-badge&amp;color=1a6dd4&amp;labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/airdrophunterph?label=Stars&amp;style=for-the-badge&amp;color=1a6dd4&amp;labelColor=0d1117" alt="Stars" />
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Digital+Solutions+That+Scale;Startup+Founder+%26+Tech+Visionary;Full-Stack+Software+Developer;Cybersecurity+Advocate+%26+Implementor;Turning+Ideas+Into+Impactful+Products&center=true&width=600&height=50&color=58a6ff&vCenter=true&pause=1000&size=22">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Digital+Solutions+That+Scale;Startup+Founder+%26+Tech+Visionary;Full-Stack+Software+Developer;Cybersecurity+Advocate+%26+Implementor;Turning+Ideas+Into+Impactful+Products&amp;center=true&amp;width=600&amp;height=50&amp;color=58a6ff&amp;vCenter=true&amp;pause=1000&amp;size=22">
 </p>
 
 <!-- Social Badges -->
 <p align="center">
   <a href="https://skyio.site/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-%231a6dd4.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-%231a6dd4.svg?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Website" />
   </a>
   <a href="https://github.com/airdrophunterph/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.facebook.com/CharlzLamera.skycode" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/skycode_devs/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.youtube.com/@SkycCodeSoftware" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube" />
   </a>
   <a href="https://www.tiktok.com/@skycodesoftware" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" alt="TikTok" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=61573899091725" target="_blank">
-    <img src="https://img.shields.io/badge/SkyCode%20Page-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="SkyCode Facebook Page" />
+    <img src="https://img.shields.io/badge/SkyCode%20Page-%231877F2.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="SkyCode Facebook Page" />
   </a>
 </p>
 
