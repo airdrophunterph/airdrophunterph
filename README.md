@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a6dd4&height=220&section=header&text=Charlz%20Lamera&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Founder%20%26%20CEO%20%E2%80%A2%20SkyCode%20Software%20Development%20Services&descSize=18&descAlignY=55&descColor=58a6ff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:1a6dd4&amp;height=220&amp;section=header&amp;text=Charlz%20Lamera&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Founder%20and%20CEO%20|%20SkyCode%20Software%20Development%20Services&amp;descSize=18&amp;descAlignY=55&amp;descColor=58a6ff&amp;animation=fadeIn" />
 
 <!-- Profile Views Badge -->
 <p align="center">
@@ -255,4 +255,4 @@ Mission: Build solutions that create real business impact
 </p>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a6dd4&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:1a6dd4&amp;height=120&amp;section=footer" />
